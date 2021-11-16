@@ -1,7 +1,7 @@
 package Empresa;
 
-public class Aeorolinea {
-    public static void Main (String[] args){
-
+public class Aerolinea {
+    public static void main (String[] args){
+        System.out.println("Hola");
     }
 }
