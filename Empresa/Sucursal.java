@@ -1,5 +1,6 @@
 package Empresa;
-public class Sucursal{
+
+public class Sucursal extends Aerolinea{
 
     
 }
