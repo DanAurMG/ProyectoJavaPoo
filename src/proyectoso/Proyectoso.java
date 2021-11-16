@@ -7,12 +7,15 @@ import java.util.Scanner;
  */
 public class Proyectoso {
 
+    private static Scanner entrada;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
-        ArrayList<Listosa> listosaS = new ArrayList <>();
+        entrada = new Scanner(System.in);
+        ArrayList<Listosa> listosaS = new ArrayList<Listosa>();
+        System.out.println("Hola");
+
     }
     
 }
